@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+	background: url(cena-de-rua-com-lixo_1308-32187.avif);
+	background-size: cover;
+}
+.emoji {
+  font-size: 4rem;
+	top: 50%;
+	left: 150px;
+	
+}
+
+#leaps {
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	font-size: 1.1rem;
+	color: white;
+}
